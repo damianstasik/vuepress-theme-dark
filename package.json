@@ -1,0 +1,20 @@
+{
+  "name": "vuepress-theme-dark",
+  "version": "0.1.0",
+  "description": "Dark theme for vuepress",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/visualfanatic/vuepress-theme-dark.git"
+  },
+  "keywords": [
+    "vuepress-theme",
+    "vuepress",
+    "dark",
+    "vue"
+  ],
+  "author": "Damian Stasik <npm@coded.pl>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/visualfanatic/vue-svg-loader/issues"
+  }
+}
