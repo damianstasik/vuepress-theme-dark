@@ -3,6 +3,9 @@
 <p align="center">Dark theme for VuePress to reduce eye strain when reading</p>
 
 ## Installation
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/visualfanatic/vuepress-theme-dark.svg)](https://greenkeeper.io/)
+
 ``` bash
 npm i -D vuepress-theme-dark
 
